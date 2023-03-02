@@ -1,4 +1,4 @@
-ID,Falls within,Longitude,Latitude,Location,LSOA name,Crime type,,LongLat,Count
+ID,Falls within,Longitude,Latitude,Location,LSOA name,Crime type,,LongLat,Crime Count
 1,Merseyside Police,-3.19328,53.38806,On or near Stanley Road,Wirral 014A,Criminal damage and arson,,-3.19328253.388061,1
 2,Merseyside Police,-3.18782,53.37168,On or near,Wirral 026C,Other theft,,-3.18781853.371683,2
 4,Merseyside Police,-3.1858,53.39194,On or near Cromer Road,Wirral 014A,Violence and sexual offences,,-3.18579653.391938,1
